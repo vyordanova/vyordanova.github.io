@@ -5,9 +5,9 @@ Hi, I am Veronika. I am a PhD student in University College London (UCL) and cur
 ## Aubout Me
 
 ### Education
-Master of Research: Security and Crime Science, University College London, UK. 2013 <br>
-Master of Science: Space Science and Engineering, University College London, UK. 2012 <br>
-Bachelor of Engineering: Aeronautical Engineering in Technical University of Sofia, Bulgaria. 2011 <br>
+2013: Master of Research: Security and Crime Science, University College London, UK.  <br>
+2012: Master of Science: Space Science and Engineering, University College London, UK.  <br>
+2011: Bachelor of Engineering: Aeronautical Engineering in Technical University of Sofia, Bulgaria.  <br>
 
 ### Experience
 2016 - 2017: Marie Curie Early Stage Researcher, Atlas Electronik GmbH, Bremen, Germany. <br>
