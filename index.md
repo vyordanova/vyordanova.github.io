@@ -4,8 +4,9 @@ Hi, I am Veronika. I am a PhD student in University College London (UCL) and cur
 
 ## Aubout Me
 
-# Education
-Master of Research: Security and Crime Science, University College London, UK. 2013
-Master of Science: Space Science and Engineering, University College London, UK. 2012
-Bachelor of Engineering: Aeronautical Engineering in Technical University of Sofia, Bulgaria. 2011
+### Education
+Master of Research: Security and Crime Science, University College London, UK. 2013 <br>
+Master of Science: Space Science and Engineering, University College London, UK. 2012 <br>
+Bachelor of Engineering: Aeronautical Engineering in Technical University of Sofia, Bulgaria. 2011 <br>
 
+### Work Experience
