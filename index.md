@@ -4,7 +4,7 @@ Hi, I am Veronika. I am a PhD student in University College London (UCL) and cur
 
 ## Contact and CV
 Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
-CV:<a href="Veronika_Yordanova_CV.pdf">here</a>
+CV: <a href="Veronika_Yordanova_CV.pdf">here</a>
 
 
 # Aubout Me
