@@ -30,6 +30,9 @@ Naval mines are inexpensive and easy to deploy but it is time consuming and cost
 * V. Yordanova, “<a href="mres_comms_2013.pdf"> Data Communication for Underwater Sensor Networks </a>,” University College London (UCL), 2013. <br>
 * V. Yordanova, "<a href="msc_radar_2012.pdf"> Measurement and modelling of the bistatic radar signature of wind turbines </a>," University College London (UCL), 2012. <br>
 
+### Poster:
+* A recent poster I presented at the Student Radar Conference in Birmingham, June 2017: <a href="YORDANOVAVeronika_Birmingham_conference_17.pdf">here</a>
+
 
 \* "This article is for personal use only, and is not to be distributed in any format." <br>
 \** "The Marine Technology Society is a not-for-profit, international, professional association. Founded in 1963, the Society believes that the advancement of marine technology and the productive, sustainable use of the oceans depend upon the active exchange of ideas between government, industry and academia. See www.mtsociety.org." 
