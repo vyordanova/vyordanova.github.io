@@ -20,8 +20,7 @@ Naval mines are inexpensive and easy to deploy but it is time consuming and cost
 
 ### Journal:
 * (submitted):  V. Yordanova, H. Griffiths and S. Hailes, ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 <br>
-* Yordanova, V, and H Griffiths, ”Rendezvous Point Technique for Multi-Vehicle Mine Countermeasure Operations in Communication-Constrained Environments,” Marine Technology Society Journal, Volume 50, Number 2: March/April 2016 <br>
-<p> Link with the permission of the MTS journal editor *,**: <a href="Yordanova&GriffithsMTS.pdf">here</a></p>
+* Yordanova, V, and H Griffiths, ”Rendezvous Point Technique for Multi-Vehicle Mine Countermeasure Operations in Communication-Constrained Environments,” Marine Technology Society Journal, Volume 50, Number 2: March/April 2016 (<p> Link with the permission of the MTS journal editor *,**: <a href="Yordanova&GriffithsMTS.pdf">here</a></p>)
 
 
 ### Conference:
