@@ -2,6 +2,11 @@
 
 Hi, I am Veronika. I am a PhD student in University College London (UCL) and currently live in Bremen, Germany. I work on mission planning for mine hunting. I am interested in applications and research relevet to marine autonomy, such as robotics, machine learning, planning.
 
+## Contact and CV
+Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
+CV: <a href="Veronika_Yordanova_CV.pdf">here</a>
+
+
 # Aubout Me
 
 ## Education
