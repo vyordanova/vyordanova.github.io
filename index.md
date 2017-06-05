@@ -21,7 +21,7 @@ Naval mines are inexpensive and easy to deploy but it is time consuming and cost
 ### Journal:
 * (submitted):  V. Yordanova, H. Griffiths and S. Hailes, ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 <br>
 * Yordanova, V, and H Griffiths, ”Rendezvous Point Technique for Multi-Vehicle Mine Countermeasure Operations in Communication-Constrained Environments,” Marine Technology Society Journal, Volume 50, Number 2: March/April 2016 <br>
-Link with the permission of the MTS journal editor *,**: <a href="Yordanova&GriffithsMTS.pdf">here</a></p>
+<p> Link with the permission of the MTS journal editor *,**: <a href="Yordanova&GriffithsMTS.pdf">here</a></p>
 
 
 ### Conference:
@@ -32,5 +32,5 @@ Link with the permission of the MTS journal editor *,**: <a href="Yordanova&Grif
 * V. Yordanova, "Measurement and modelling of the bistatic radar signature of wind turbines," University College London (UCL), 2012. <br>
 
 
-\* "This article is for personal use only, and is not to be distributed in any format."
+\* "This article is for personal use only, and is not to be distributed in any format." <br>
 \** "The Marine Technology Society is a not-for-profit, international, professional association. Founded in 1963, the Society believes that the advancement of marine technology and the productive, sustainable use of the oceans depend upon the active exchange of ideas between government, industry and academia. See www.mtsociety.org." 
