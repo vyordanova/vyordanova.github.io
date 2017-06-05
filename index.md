@@ -27,8 +27,8 @@ Naval mines are inexpensive and easy to deploy but it is time consuming and cost
 * Yordanova, V, and H Griffiths, ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015.
 
 ### Master's Thesis:
-* V. Yordanova, “Data Communication for Underwater Sensor Networks,” University College London (UCL), 2013. <br>
-* V. Yordanova, "Measurement and modelling of the bistatic radar signature of wind turbines," University College London (UCL), 2012. <br>
+* V. Yordanova, “<a href="mres_comms_2013.pdf"> Data Communication for Underwater Sensor Networks </a>,” University College London (UCL), 2013. <br>
+* V. Yordanova, "<a href="msc_radar_2012.pdf"> Measurement and modelling of the bistatic radar signature of wind turbines </a>," University College London (UCL), 2012. <br>
 
 
 \* "This article is for personal use only, and is not to be distributed in any format." <br>
