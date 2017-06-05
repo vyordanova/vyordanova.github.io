@@ -15,8 +15,8 @@ Hi, I am Veronika. I am a PhD student in University College London (UCL) and cur
 2014: Lab demonstrator, Electronic and Electrical Engineering Department, University College London, UK. <br>
 
 ### Research
-Journal (submitted):  V. Yordanova, H. Griffiths and S. Hailes, ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 <br>
-Journal: Yordanova, V, and H Griffiths, ”Rendezvous Point Technique for Multi-Vehicle Mine Countermeasure Operations in Communication-Constrained Environments,” Marine Technology Society Journal, Volume 50, Number 2: March/April 2016 <br>
-Conference: Yordanova, V, and H Griffiths, ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. <br>
-Master's Thesis: V. Yordanova, “Data Communication for Underwater Sensor Networks,” University College London (UCL), 2013. <br>
-Master's Thesis: V. Yordanova, "Measurement and modelling of the bistatic radar signature of wind turbines," University College London (UCL), 2012. <br>
+* Journal (submitted):  V. Yordanova, H. Griffiths and S. Hailes, ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 <br>
+* Journal: Yordanova, V, and H Griffiths, ”Rendezvous Point Technique for Multi-Vehicle Mine Countermeasure Operations in Communication-Constrained Environments,” Marine Technology Society Journal, Volume 50, Number 2: March/April 2016 <br>
+* Conference: Yordanova, V, and H Griffiths, ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. <br>
+* Master's Thesis: V. Yordanova, “Data Communication for Underwater Sensor Networks,” University College London (UCL), 2013. <br>
+* Master's Thesis: V. Yordanova, "Measurement and modelling of the bistatic radar signature of wind turbines," University College London (UCL), 2012. <br>
