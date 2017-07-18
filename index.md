@@ -1,6 +1,6 @@
 # Здравейте
 
-Hi, I am Veronika. I am a PhD student in University College London (UCL) and currently live in Bremen, Germany. I work on mission planning for mine hunting. I am interested in applications and research relevet to marine autonomy, such as robotics, machine learning, planning.
+Hi, I am Veronika. I am a PhD student in University College London (UCL) and visiting researcher in the National Oceanography Centre (NOC) in Southampton, UK. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevet to marine autonomy, such as robotics, machine learning, planning.
 
 ## Contact and CV
 Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
@@ -24,12 +24,12 @@ My PhD research topic is Intelligent Adaptive Underwater Sensor Networks. <br>
 Naval mines are inexpensive and easy to deploy but it is time consuming and costly to clear a mine field. Currently, the possibility of using multiple autonomous underwater vehicles (AUVs) over conventional methods is being studied. Advantages include extended coverage area, potential cost and time efficiency, and more robust performance. A common issue that slows advancement in the underwater field is the limited available communication between platforms. The solution this PhD project proposes is scheduling meeting points for the vehicles so they can exchange status and mission information. So far, an adaptive method has been developed that adopts a greedy algorithm to enable task reallocation between the vehicles. The current work is focusing on an optimal planning method using an MDP.
 
 ### Journal:
-* (submitted):  V. Yordanova, H. Griffiths and S. Hailes, ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 <br>
-* Yordanova, V, and H Griffiths, ”Rendezvous Point Technique for Multi-Vehicle Mine Countermeasure Operations in Communication-Constrained Environments,” Marine Technology Society Journal, Volume 50, Number 2: March/April 2016 (Link with the permission of the MTS journal editor *,**: <a href="Yordanova&GriffithsMTS.pdf">here</a>)
+* Yordanova, V., Griffiths H. and Hailes, S., ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 <br>
+* Yordanova, V., and Griffiths, H., ”Rendezvous Point Technique for Multi-Vehicle Mine Countermeasure Operations in Communication-Constrained Environments,” Marine Technology Society Journal, Volume 50, Number 2: March/April 2016 (Link with the permission of the MTS journal editor *,**: <a href="Yordanova&GriffithsMTS.pdf">here</a>)
 
 
 ### Conference:
-* Yordanova, V, and H Griffiths, ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015.
+* Yordanova, V., and Griffiths, H., ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. (http://ieeexplore.ieee.org/abstract/document/7401891/)
 
 ### Master's Thesis:
 * V. Yordanova, “<a href="mres_comms_2013.pdf"> Data Communication for Underwater Sensor Networks </a>,” University College London (UCL), 2013. <br>
