@@ -1,11 +1,12 @@
 # Здравейте
 
-Hi, I am Veronika. I am a PhD student in University College London (UCL) and visiting researcher in the National Oceanography Centre (NOC) in Southampton, UK. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevet to marine autonomy, such as robotics, machine learning, planning.
+Hi, I am Veronika. I am a PhD student in University College London (UCL) and visiting researcher in the National Oceanography Centre (NOC) in Southampton, UK. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevet to marine autonomy, such as robotics, reinforcement learning, planning.
 
 ## Contact and CV
 Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
-CV: <a href="Veronika_Yordanova_CV.pdf">here</a>
-
+CV: <a href="Veronika_Yordanova_CV.pdf">here</a> <br>
+LinkedIn: <a href="www.linkedin.com/in/veronikayordanova/"> here</a>) <br>
+ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a>) <br>
 
 # Aubout Me
 
@@ -29,11 +30,11 @@ Naval mines are inexpensive and easy to deploy but it is time consuming and cost
 
 
 ### Conference:
-* Yordanova, V., and Griffiths, H., ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. (http://ieeexplore.ieee.org/abstract/document/7401891/)
+* Yordanova, V., and Griffiths, H., ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. (IEEE Explore link: <a href="http://ieeexplore.ieee.org/abstract/document/7401891/>here</a>)
 
 ### Master's Thesis:
-* V. Yordanova, “<a href="mres_comms_2013.pdf"> Data Communication for Underwater Sensor Networks </a>,” University College London (UCL), 2013. <br>
-* V. Yordanova, "<a href="msc_radar_2012.pdf"> Measurement and modelling of the bistatic radar signature of wind turbines </a>," University College London (UCL), 2012. <br>
+* V. Yordanova, “<a href="mres_comms_2013.pdf">Data Communication for Underwater Sensor Networks </a>,” University College London (UCL), 2013. <br>
+* V. Yordanova, "<a href="msc_radar_2012.pdf">Measurement and modelling of the bistatic radar signature of wind turbines </a>," University College London (UCL), 2012. <br>
 
 ### Poster:
 * A recent poster I presented at the Student Radar Conference in Birmingham, June 2017: <a href="YORDANOVAVeronika_Birmingham_conference_17.pdf">here</a>
