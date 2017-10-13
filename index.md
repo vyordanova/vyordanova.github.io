@@ -5,8 +5,8 @@ Hi, I am Veronika. I am a PhD student in University College London (UCL) and vis
 ## Contact and CV
 Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
 CV: <a href="Veronika_Yordanova_CV.pdf">here</a> <br>
-LinkedIn: <a href="www.linkedin.com/in/veronikayordanova/"> here</a>) <br>
-ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a>) <br>
+LinkedIn: <a href="www.linkedin.com/in/veronikayordanova/"> here</a> <br>
+ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a> <br>
 
 # Aubout Me
 
@@ -30,7 +30,7 @@ Naval mines are inexpensive and easy to deploy but it is time consuming and cost
 
 
 ### Conference:
-* Yordanova, V., and Griffiths, H., ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. (IEEE Explore link: <a href="http://ieeexplore.ieee.org/abstract/document/7401891/>here</a>)
+* Yordanova, V., and Griffiths, H., ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. (IEEE Explore link: <a href="http://ieeexplore.ieee.org/abstract/document/7401891/"> here</a>)
 
 ### Master's Thesis:
 * V. Yordanova, “<a href="mres_comms_2013.pdf">Data Communication for Underwater Sensor Networks </a>,” University College London (UCL), 2013. <br>
