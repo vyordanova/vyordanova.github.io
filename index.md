@@ -1,6 +1,6 @@
 # Здравейте
 
-Hi, I am Veronika. I am a PhD student in University College London (UCL) and visiting researcher in the National Oceanography Centre (NOC) in Southampton, UK. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevet to marine autonomy, such as robotics, reinforcement learning, planning.
+Hi, I am Veronika. I am a PhD student in University College London (UCL) and visiting researcher in the National Oceanography Centre (NOC) in Southampton, UK. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevent to marine autonomy, such as robotics, reinforcement learning, planning.
 
 ## Contact and CV
 Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
