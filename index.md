@@ -10,18 +10,18 @@ ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a
 
 # Aubout Me
 
+## Experience
+2018: Visiting scientist, MCM group in Centre for Maritime Research and Experimentation (CMRE), La Spzeia, Italy. <br>
+2017: Visiting researcher, MARS group in National Oceanography Centre (NOC), Southampton, UK. <br>
+2016 - 2017: Marie Curie Early Stage Researcher, Atlas Electronik GmbH, Bremen, Germany. <br>
+2016: Teaching Assistant in "Interdisciplinary Game Theory", Arts & Sciences Programme, University College London, UK. <br>
+2014: Lab demonstrator, Electronic and Electrical Engineering Department, University College London, UK. <br>
+
 ## Education
 2018: PhD in Engineering: Intelligent Adaptive Underwater Sensor Networks, University College London, UK.  <br>
 2013: Master of Research: Security and Crime Science, University College London, UK.  <br>
 2012: Master of Science: Space Science and Engineering, University College London, UK.  <br>
 2011: Bachelor of Engineering: Aeronautical Engineering in Technical University of Sofia, Bulgaria.  <br>
-
-## Experience
-2018: Visiting scientist, MCM group in Centre for Maritime Research and Experimentation (CMRE), La Spzeia, Italy
-2017: Visiting researcher, MARS group in National Oceanography Centre (NOC), Southampton, UK
-2016 - 2017: Marie Curie Early Stage Researcher, Atlas Electronik GmbH, Bremen, Germany. <br>
-2016: Teaching Assistant in "Interdisciplinary Game Theory", Arts & Sciences Programme, University College London, UK. <br>
-2014: Lab demonstrator, Electronic and Electrical Engineering Department, University College London, UK. <br>
 
 ### Journal:
 * Yordanova, V., Griffiths H. and Hailes, S., ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 (link to the full text (draft) in Reseachgate <a href="https://www.researchgate.net/publication/318646427_Rendezvous_Planning_for_Multiple_Autonomous_Underwater_Vehicles_using_a_Markov_Decision_Process"> here</a> or the official IET publication <a href="http://digital-library.theiet.org/content/journals/10.1049/iet-rsn.2017.0098?crawler=true&mimetype=application/pdf&tags=noindex"> here</a>) <br>
