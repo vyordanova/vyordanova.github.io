@@ -1,29 +1,31 @@
 # Здравейте
 
-Hi, I am Veronika. I am a PhD student in University College London (UCL) and visiting researcher in the National Oceanography Centre (NOC) in Southampton, UK. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevent to marine autonomy, such as robotics, reinforcement learning, planning.
+Hi, I am Veronika. I am a visiting scientist in the Centre for Maritime Research and Experimentation (CMRE) in La Spezia, Italy. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevent to marine autonomy, such as robotics, reinforcement learning, planning.
 
 ## Contact and CV
-Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
-CV: <a href="Veronika_Yordanova_CV.pdf">here</a> <br>
+Email: veronika dot yordanova dot cmre dot nato dot int <br>
+CV: <a href="cv_sep18.pdf">here</a> <br>
 LinkedIn: <a href="www.linkedin.com/in/veronikayordanova/"> here</a> <br>
 ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a> <br>
 
 # Aubout Me
 
 ## Education
+2018: PhD in Engineering: Intelligent Adaptive Underwater Sensor Networks, University College London, UK.  <br>
 2013: Master of Research: Security and Crime Science, University College London, UK.  <br>
 2012: Master of Science: Space Science and Engineering, University College London, UK.  <br>
 2011: Bachelor of Engineering: Aeronautical Engineering in Technical University of Sofia, Bulgaria.  <br>
 
 ## Experience
+2018: Visiting scientist, MCM group in Centre for Maritime Research and Experimentation (CMRE), La Spzeia, Italy
 2017: Visiting researcher, MARS group in National Oceanography Centre (NOC), Southampton, UK
 2016 - 2017: Marie Curie Early Stage Researcher, Atlas Electronik GmbH, Bremen, Germany. <br>
 2016: Teaching Assistant in "Interdisciplinary Game Theory", Arts & Sciences Programme, University College London, UK. <br>
 2014: Lab demonstrator, Electronic and Electrical Engineering Department, University College London, UK. <br>
 
-## Research
+<!––## Research
 My PhD research topic is Intelligent Adaptive Underwater Sensor Networks. <br> 
-Naval mines are inexpensive and easy to deploy but it is time consuming and costly to clear a mine field. Currently, the possibility of using multiple autonomous underwater vehicles (AUVs) over conventional methods is being studied. Advantages include extended coverage area, potential cost and time efficiency, and more robust performance. A common issue that slows advancement in the underwater field is the limited available communication between platforms. The solution this PhD project proposes is scheduling meeting points for the vehicles so they can exchange status and mission information. So far, an adaptive method has been developed that adopts a greedy algorithm to enable task reallocation between the vehicles. The current work is focusing on an optimal planning method using an MDP.
+Naval mines are inexpensive and easy to deploy but it is time consuming and costly to clear a mine field. Currently, the possibility of using multiple autonomous underwater vehicles (AUVs) over conventional methods is being studied. Advantages include extended coverage area, potential cost and time efficiency, and more robust performance. A common issue that slows advancement in the underwater field is the limited available communication between platforms. The solution this PhD project proposes is scheduling meeting points for the vehicles so they can exchange status and mission information. So far, an adaptive method has been developed that adopts a greedy algorithm to enable task reallocation between the vehicles. The current work is focusing on an optimal planning method using an MDP. ––!>
 
 ### Journal:
 * Yordanova, V., Griffiths H. and Hailes, S., ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 (link to the full text (draft) in Reseachgate <a href="https://www.researchgate.net/publication/318646427_Rendezvous_Planning_for_Multiple_Autonomous_Underwater_Vehicles_using_a_Markov_Decision_Process"> here</a> or the official IET publication <a href="http://digital-library.theiet.org/content/journals/10.1049/iet-rsn.2017.0098?crawler=true&mimetype=application/pdf&tags=noindex"> here</a>) <br>
@@ -41,7 +43,7 @@ Naval mines are inexpensive and easy to deploy but it is time consuming and cost
 * V. Yordanova, "<a href="msc_radar_2012.pdf">Measurement and modelling of the bistatic radar signature of wind turbines </a>," University College London (UCL), 2012. <br>
 
 ### Poster:
-* A recent poster I presented at the Student Radar Conference in Birmingham, June 2017: <a href="YORDANOVAVeronika_Birmingham_conference_17.pdf">here</a>
+* A poster I presented at the Student Radar Conference in Birmingham, June 2017: <a href="YORDANOVAVeronika_Birmingham_conference_17.pdf">here</a>
 
 
 \* "This article is for personal use only, and is not to be distributed in any format." <br>
