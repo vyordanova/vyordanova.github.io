@@ -1,6 +1,6 @@
 # Здравейте
 
-Hi, I am Veronika. I am a visiting scientist in the Centre for Maritime Research and Experimentation (CMRE) in La Spezia, Italy. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevent to marine autonomy, such as robotics, reinforcement learning, planning.
+Hi, I am Veronika. I am a research scientist in the Centre for Maritime Research and Experimentation (CMRE) in La Spezia, Italy. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevent to marine autonomy, such as robotics, reinforcement learning, planning.
 
 ## Contact and CV
 Email: veronika dot yordanova dot cmre dot nato dot int <br>
@@ -11,7 +11,7 @@ ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a
 # About Me
 
 ## Experience
-2018: Visiting scientist, MCM group in Centre for Maritime Research and Experimentation (CMRE), La Spzeia, Italy. <br>
+2018: Research Scientist, ANMCM group in Centre for Maritime Research and Experimentation (CMRE), La Spzeia, Italy. <br>
 2017: Visiting researcher, MARS group in National Oceanography Centre (NOC), Southampton, UK. <br>
 2016 - 2017: Marie Curie Early Stage Researcher, Atlas Electronik GmbH, Bremen, Germany. <br>
 2016: Teaching Assistant in "Interdisciplinary Game Theory", Arts & Sciences Programme, University College London, UK. <br>
