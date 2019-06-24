@@ -8,7 +8,7 @@ CV: <a href="cv_sep18.pdf">here</a> <br>
 LinkedIn: <a href="www.linkedin.com/in/veronikayordanova/"> here</a> <br>
 ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a> <br>
 
-# Aubout Me
+# About Me
 
 ## Experience
 2018: Visiting scientist, MCM group in Centre for Maritime Research and Experimentation (CMRE), La Spzeia, Italy. <br>
@@ -29,6 +29,7 @@ ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a
 
 
 ### Conference:
+* Yordanova, V., Gips, B., Furfaro, T., and Dugelay, S., "Coverage Path Planning for Mine Countermeasures: Adapting Track Orientation," OCEANS'19 MTS/IEEE Marseille. 2019.
 * Yordanova, V., and Griffiths, H., ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. (IEEE Explore link: <a href="http://ieeexplore.ieee.org/abstract/document/7401891/"> here</a>)
 
 ### PhD Thesis:
