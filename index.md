@@ -3,15 +3,16 @@
 Hi, I am Veronika. I am a research scientist in the Centre for Maritime Research and Experimentation (CMRE) in La Spezia, Italy. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevent to marine autonomy, such as robotics, reinforcement learning, planning.
 
 ## Contact and CV
-Email: veronika dot yordanova dot cmre dot nato dot int <br>
+Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
 CV: <a href="cv_sep18.pdf">here</a> <br>
 LinkedIn: <a href="www.linkedin.com/in/veronikayordanova/"> here</a> <br>
 ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a> <br>
+StackOverflow: <a href="https://stackoverflow.com/users/3091361/voltronika?tab=profile"> here</a> <br>
 
 # About Me
 
 ## Experience
-2018: Research Scientist, ANMCM group in Centre for Maritime Research and Experimentation (CMRE), La Spzeia, Italy. <br>
+2018 - 2021: Research Scientist, ANMCM group in Centre for Maritime Research and Experimentation (CMRE), La Spzeia, Italy. <br>
 2017: Visiting researcher, MARS group in National Oceanography Centre (NOC), Southampton, UK. <br>
 2016 - 2017: Marie Curie Early Stage Researcher, Atlas Electronik GmbH, Bremen, Germany. <br>
 2016: Teaching Assistant in "Interdisciplinary Game Theory", Arts & Sciences Programme, University College London, UK. <br>
@@ -24,12 +25,14 @@ ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a
 2011: Bachelor of Engineering: Aeronautical Engineering in Technical University of Sofia, Bulgaria.  <br>
 
 ### Journal:
-* Yordanova, V., Griffiths H. and Hailes, S., ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process” IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 (link to the full text (draft) in Reseachgate <a href="https://www.researchgate.net/publication/318646427_Rendezvous_Planning_for_Multiple_Autonomous_Underwater_Vehicles_using_a_Markov_Decision_Process"> here</a> or the official IET publication <a href="http://digital-library.theiet.org/content/journals/10.1049/iet-rsn.2017.0098?crawler=true&mimetype=application/pdf&tags=noindex"> here</a>) <br>
+* Yordanova, V., Gips B., ”Coverage path planning with track spacing adaptation for autonomous underwater vehicles” IEEE Robotics and Automation Letters 5 (3), 4774-4780 (link to the full text in arxiv <a href="https://arxiv.org/pdf/2006.12896.pdf"> here</a>)
+* Yordanova, V., Griffiths H. and Hailes, S., ”Rendezvous Planning for Multiple Autonomous Underwater Vehicles using a Markov Decision Process”Coverage path planning with track spacing adaptation for autonomous underwater vehicles IET Radar, Sonar & Navigation, Special Issue: Sonar multi-sensor applications and techniques, 2017 (link to the full text (draft) in Reseachgate <a href="https://www.researchgate.net/publication/318646427_Rendezvous_Planning_for_Multiple_Autonomous_Underwater_Vehicles_using_a_Markov_Decision_Process"> here</a> or the official IET publication <a href="http://digital-library.theiet.org/content/journals/10.1049/iet-rsn.2017.0098?crawler=true&mimetype=application/pdf&tags=noindex"> here</a>) <br>
 * Yordanova, V., and Griffiths, H., ”Rendezvous Point Technique for Multi-Vehicle Mine Countermeasure Operations in Communication-Constrained Environments,” Marine Technology Society Journal, Volume 50, Number 2: March/April 2016 (Link with the permission of the MTS journal editor *,**: <a href="Yordanova&GriffithsMTS.pdf">here</a>)
 
 
 ### Conference:
-* Yordanova, V., Gips, B., Furfaro, T., and Dugelay, S., "Coverage Path Planning for Mine Countermeasures: Adapting Track Orientation," OCEANS'19 MTS/IEEE Marseille. 2019.
+* Yordanova, V., Gips, B., Furfaro, T., and Dugelay, S., "Coverage Path Planning for Mine Countermeasures: Adapting Track Orientation," OCEANS'19 MTS/IEEE Marseille. 2019. (IEEE Explore link to a free PDF: <a href="https://ieeexplore.ieee.org/abstract/document/8867065"> here</a>)
+* Dugelay, S., Williams, D., Furfaro, T., Melo, J., Yordanova, V., Strode, C., Gips, B., Pailhas, Y., "Enabling autonomous mine countermeasures for the NATO Alliance," 5th Underwater Acoustics Conference & Exhibition (UACE). 2019. (link to article: <a href="https://paginas.fe.up.pt/~dee10008/papers/UACE2019_927_Dugelay.pdf"> here</a>)
 * Yordanova, V., and Griffiths, H., ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. (IEEE Explore link: <a href="http://ieeexplore.ieee.org/abstract/document/7401891/"> here</a>)
 
 ### PhD Thesis:
