@@ -32,7 +32,7 @@ StackOverflow: <a href="https://stackoverflow.com/users/3091361/voltronika?tab=p
 
 ### Conference:
 * Yordanova, V., Gips, B., Furfaro, T., and Dugelay, S., "Coverage Path Planning for Mine Countermeasures: Adapting Track Orientation," OCEANS'19 MTS/IEEE Marseille. 2019. (IEEE Explore link to a free PDF: <a href="https://ieeexplore.ieee.org/abstract/document/8867065"> here</a>)
-* Dugelay, S., Williams, D., Furfaro, T., Melo, J., Yordanova, V., Strode, C., Gips, B., Pailhas, Y., "Enabling autonomous mine countermeasures for the NATO Alliance," 5th Underwater Acoustics Conference & Exhibition (UACE). 2019. (link to article: <a href="https://paginas.fe.up.pt/~dee10008/papers/UACE2019_927_Dugelay.pdf"> here</a>)
+* Dugelay, S., Williams, D., Furfaro, T., Melo, J., Yordanova, V., Strode, C., Gips, B., Pailhas, Y., "Enabling autonomous mine countermeasures for the NATO Alliance," 5th Underwater Acoustics Conference & Exhibition (UACE). 2019. (link to full text: <a href="https://paginas.fe.up.pt/~dee10008/papers/UACE2019_927_Dugelay.pdf"> here</a>)
 * Yordanova, V., and Griffiths, H., ”Synchronous Rendezvous Technique for Multi-Vehicle Mine Countermeasure Operations,” OCEANS’15 MTS/IEEE Washington. 2015. (IEEE Explore link: <a href="http://ieeexplore.ieee.org/abstract/document/7401891/"> here</a>)
 
 ### PhD Thesis:
