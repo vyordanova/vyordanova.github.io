@@ -1,6 +1,8 @@
 # Здравейте
 
-Hi, I am Veronika. I am a research scientist in the Centre for Maritime Research and Experimentation (CMRE) in La Spezia, Italy. I work on mission planning for Autonomous Underwater Vehicles. I am interested in applications and research relevent to marine autonomy, such as robotics, reinforcement learning, planning.
+Hi, I am Veronika. I was a research scientist for 10 years - I spent some wonderful time in university, industry and research institutes while exploring the topics of robotics, autonomy, planning and reinforcement learning. This page summarises my achievements as a researcher. <br>
+I have now left the field and joined a technical consultancy company - I talk to clients, manage projects, and lead sales efforts in areas like automation, sustainability and digital transformation. <br>
+I am really enjoying working at the intersection of tech and business so if you want to chat about robotics startups in London, get in touch!
 
 ## Contact and CV
 Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
