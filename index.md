@@ -6,7 +6,7 @@ I am really enjoying working at the intersection of tech and business so if you 
 
 ## Contact and CV
 Email: veronika dot yordanova dot 11 at ucl dot ac dot uk <br>
-CV: <a href="cv_sep18.pdf">here</a> <br>
+CV: <a href="Veronika_Yordanova_CV.pdf">here</a> <br>
 LinkedIn: <a href="www.linkedin.com/in/veronikayordanova/"> here</a> <br>
 ResearchGate: <a href="www.researchgate.net/profile/Veronika_Yordanova"> here</a> <br>
 StackOverflow: <a href="https://stackoverflow.com/users/3091361/voltronika?tab=profile"> here</a> <br>
